@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"xyz","headers":[{"ww":"ss"}],"queryParameters":[{"ee":"dd"}],"Authorization":[{"rr":"ff"}]},"response":{"status":"200","body":"aswer ew","headers":{"Content-Type":"application/json"}}}
